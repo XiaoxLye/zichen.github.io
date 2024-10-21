@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lzc.png"
   name             : "Zichen Liang"
   pronouns         : #example: "she/her"  
   bio              : "When it is time to die, let us not discover that we never lived."
@@ -40,11 +40,11 @@ author:
   #researchgate     : # URL
 
   # Repositories and software development
-  #bitbucket        : # Username - Update with your username on the site
-  #codepen          : # Username
-  #dribbble         : # Username
-  #github           : "academicpages"
-  #kaggle           : # Username  
+  bitbucket        : #Username - Update with your username on the site
+  codepen          : #Username
+  dribbble         : #Username
+  github           : #"academicpages"
+  kaggle           : #Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
