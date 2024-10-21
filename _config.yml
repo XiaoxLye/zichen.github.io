@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lzc.png"
+  avatar           : "lzc1.png"
   name             : "Zichen Liang"
   pronouns         : #example: "she/her"  
   bio              : "When it is time to die, let us not discover that we never lived."
