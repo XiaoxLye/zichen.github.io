@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zichen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,11 +23,8 @@ author:
   # Biographic information
   avatar           : "lzc1.png"
   name             : "Zichen Liang"
-  pronouns         : # example: "she/her"  
   bio              : "How vain it is to sit down to write when you have not stood up to live."
   location         : "Beijing"
-  employer         : #"Red Brick University"
-  uri              : #URL
   email            : "liangzichen.arch@gmail.com" 
 
   # Academic websites
