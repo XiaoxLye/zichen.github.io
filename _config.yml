@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lzc1.png"
+  avatar           : "lzc2.png"
   name             : "Zichen Liang"
   bio              : "How vain it is to sit down to write when you have not stood up to live."
   location         : "Beijing"
