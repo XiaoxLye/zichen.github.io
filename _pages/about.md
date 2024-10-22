@@ -18,4 +18,4 @@ I was advised by [Associate Professor Zhongzhong Zeng](https://saad.bjtu.edu.cn/
 # CONTACT
 [Email](liangzichen.arch@gmail.com)
 
-You can find my CV here: [Liang’s CV](https://github.com/XiaoxLye/zichen.github.io/blob/master/files/ZICHEN%20LIANG%20_CV.pdf)
+You can find my CV here: [Liang’s CV](https://xiaoxlye.github.io/zichen.github.io/files/ZICHENLIANG-CV.pdf)
