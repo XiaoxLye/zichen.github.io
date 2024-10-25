@@ -3,8 +3,8 @@ title: "Natural Ventilation in Beijing Courtyard Primary Room: A Comparison of I
 collection: publications
 category: conferences
 permalink: https://xiaoxlye.github.io/zichen.github.io/files/527151_1_En_10_Chapter_Author.pdf
-excerpt: #'This paper is about fixing template issue #693.'
-date: 2024-02-17
+excerpt: 'Click on the article title to view the abstract.'
+date: 2023-06-04
 venue: 'Design for Health. UIA 2023. Sustainable Development Goals Series. Springer, Cham'
 paperurl: 'https://doi.org/10.1007/978-3-031-36316-0_10'
 citation: 'Zeng, Z., Liang, Z. (2023). The Effect of the Front Porch and Loft on Natural Ventilation of the Main House in Beijing Courtyard. In: Hasan, A., Benimana, C., Ramsgaard Thomsen, M., Tamke, M. (eds) Design for Health. UIA 2023. Sustainable Development Goals Series. Springer, Cham. https://doi.org/10.1007/978-3-031-36316-0_10'
