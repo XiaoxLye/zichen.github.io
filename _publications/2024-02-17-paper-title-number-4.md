@@ -2,7 +2,7 @@
 title: "Natural Ventilation in Beijing Courtyard Primary Room: A Comparison of Isolated and Non-Isolated Buildings"
 collection: publications
 category: conferences
-permalink: https://xiaoxlye.github.io/zichen.github.io/files/527151_1_En_10_Chapter_Author.pdf
+permalink: files/527151_1_En_10_Chapter_Author.pdf
 excerpt: 'Click on the article title to view the abstract.'
 date: 2023-06-04
 venue: 'Design for Health. UIA 2023. Sustainable Development Goals Series. Springer, Cham'
