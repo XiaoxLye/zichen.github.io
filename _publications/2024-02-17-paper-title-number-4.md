@@ -2,8 +2,8 @@
 title: "Natural Ventilation in Beijing Courtyard Primary Room: A Comparison of Isolated and Non-Isolated Buildings"
 collection: publications
 category: conferences
-permalink: files/527151_1_En_10_Chapter_Author.pdf
-excerpt: 'Click on the article title to view the abstract.'
+permalink: /publications/2024-02-17-paper-title-number-4.md
+excerpt: 'This paper is about the study of ventilation performance of traditional residential buildings in Beijing.'
 date: 2023-06-04
 venue: 'Design for Health. UIA 2023. Sustainable Development Goals Series. Springer, Cham'
 paperurl: 'https://doi.org/10.1007/978-3-031-36316-0_10'
