@@ -1,6 +1,9 @@
 # Ignore the contents of the _site directory
 _site/
 
+# Ignore the contents of the _publications directory
+_publications/2015-10-01-paper-title-number-3.md
+
 # Ignore the directory for local files during development
 local/
 
