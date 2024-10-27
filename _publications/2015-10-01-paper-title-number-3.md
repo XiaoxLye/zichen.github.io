@@ -1,4 +1,8 @@
 ---
+# Ignore the contents of the _publications directory
+_publications/2015-10-01-paper-title-number-3.md
+
+git rm --cached 2015-10-01-paper-title-number-3.md
 title: "Paper Title Number 3"
 collection: publications
 category: manuscripts
