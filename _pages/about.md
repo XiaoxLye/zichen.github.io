@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-# **Welcome to my academic personal websites**
 
 
 # **BIO & RESEARCH INTERESTS**
