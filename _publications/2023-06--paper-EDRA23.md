@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publications/2023-06--paper-EDRA23
 excerpt: 'This paper is about the study of ventilation performance of traditional residential buildings in Beijing.'
-date: 2023-06-04
+date: 2023-06-20
 venue: 'Environmental Design Research Association (EDRA)'
 paperurl: 'https://doi.org/10.52202/074123-0022'
 citation: 'Zeng, Zhongzhong, Zichen Liang, and Bo Zhang. "Natural Ventilation in Beijing Courtyard Primary Room: A Comparison of Isolated and Non-Isolated Buildings." ENVIRONMENT AND HEALTH: Global/Local Challenges and Actions. EDRA, 2023.https://doi.org/10.52202/074123-0022'
