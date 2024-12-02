@@ -25,7 +25,7 @@ My research is centrally focused on wind simulation, utilising the software ANSY
 I love travelling. I travel with my family and friends outside of work because it's the best way for me to experience life. I believe that a love of travelling is a love of life.
 
 <!-- Fun Image -->
-<img title="With robot" alt="With robot" src="/images/about_me.png">
+<img title="travelling" alt="travelling" src="/images/about me 1.png">
 
 # Contact
 [Email](liangzichen.arch@gmail.com)
