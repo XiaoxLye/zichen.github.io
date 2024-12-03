@@ -17,7 +17,7 @@ I was advised by [Associate Professor Zhongzhong Zeng](https://saad.bjtu.edu.cn/
 
 Guided by the two teachers, I not only completed my master's thesis successfully, but also assumed responsibility for a number of tasks within Zeng and Zhang's research group. These included the preparation of reports on the optimisation of building wind environments, the evaluation of green buildings in the planning stage of bidding projects, the strategic optimisation of urban wind environments, and the training of students in the use of CFD software. My achievements in academic research include participation in international academic conferences and the publication of papers in peer-reviewed journals.
 
-Further details of my experience can be found in the [Talks](/talks/) section and my papers in the [Publications](/publications/) section.
+Further details of my experience can be found in the [Talks](/zichen.github.io/talks/) section and my papers in the [Publications](/zichen.github.io/publications/) section.
 
 You can find my CV here: [Liang’s CV](https://xiaoxlye.github.io/zichen.github.io/files/ZICHENLIANG-CV.pdf)
 
@@ -27,10 +27,9 @@ My research is centrally focused on wind simulation, utilising the software ANSY
 # **Other Interests**
 I love travelling. I travel with my family and friends outside of work because it's the best way for me to experience life. I believe that a love of travelling is a love of life.
 
-<!-- Fun Image -->
-<img title="Travelling" alt="Travelling" src="/images/about me 1.png">
+![about me 1](https://github.com/user-attachments/assets/e24aa88d-3b7d-4236-89cb-da5b46dbc822)
 
-# Contact
+# **Contact**
 [Email](liangzichen.arch@gmail.com)
 
 
