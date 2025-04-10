@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# **Contact**
-[Email](liangzichen.arch@gmail.com)
+
 You can find my CV here: [Liang’s CV](https://xiaoxlye.github.io/zichen.github.io/files/ZICHENLIANG-CV.pdf)
 
 I obtained a Bachelor's degree in Building Electrical Intelligence in the School of Electrical and Information Engineering of Beijing University of Civil Engineering and Architecture in 2020. 
@@ -19,7 +18,8 @@ I was advised by [Associate Professor Zhongzhong Zeng](https://saad.bjtu.edu.cn/
 Guided by the two teachers, I not only completed my master's thesis successfully, but also assumed responsibility for a number of tasks within Zeng and Zhang's research group. These included the preparation of reports on the optimisation of building wind environments, the evaluation of green buildings in the planning stage of bidding projects, the strategic optimisation of urban wind environments, and the training of students in the use of CFD software. My achievements in academic research include participation in international academic conferences and the publication of papers in peer-reviewed journals.
 
 Further details of my experience can be found in the [Talks](/zichen.github.io/talks/) section and my papers in the [Publications](/zichen.github.io/publications/) section.
-
+# **Contact**
+[Email](liangzichen.arch@gmail.com)
 
 # **Research Interests**
 My research is centrally focused on wind simulation, utilising the software ANSYS FLUENT, with the objective of proposing optimised methods to enhance indoor environmental comfort in residential buildings. Additionally, my research interests encompass building systems and building renewal. I am motivated to incorporate more precise software simulation outcomes to enhance the individual living environment in established buildings. To this end, I am also acquiring proficiency in Energyplus, Grasshopper and other software.
@@ -27,10 +27,7 @@ My research is centrally focused on wind simulation, utilising the software ANSY
 # **Others**
 Last time I attended the UIA academic conference in Denmark, I gained a lot from it. After that, I traveled and studied in Europe. This experience solidified my decision to pursue a doctorate in Europe.
 
-![about me 5](https://github.com/user-attachments/assets/e24aa88d-3b7d-4236-89cb-da5b46dbc822)
+![about me 5](https://raw.githubusercontent.com/XiaoxLye/zichen.github.io/refs/heads/master/images/about%20me%205.jpg)
 
-<!-- Fun Image -->
-<img title="about me 5" alt="about me 5" src="/images/about me 5.png">
-
-Image description: Me with the TRACIR (project at Biorobotics Lab, CMU) robot at UPMC, Pittsburgh, USA after successful experiments with the robot on pigs.
+Image description: Me and UIA Past President Sara Topelson at the UIA 1999 Beijing booth.
 
