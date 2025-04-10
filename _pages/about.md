@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+# **Contact**
+[Email](liangzichen.arch@gmail.com)
 You can find my CV here: [Liang’s CV](https://xiaoxlye.github.io/zichen.github.io/files/ZICHENLIANG-CV.pdf)
 
 I obtained a Bachelor's degree in Building Electrical Intelligence in the School of Electrical and Information Engineering of Beijing University of Civil Engineering and Architecture in 2020. 
@@ -28,7 +29,8 @@ Last time I attended the UIA academic conference in Denmark, I gained a lot from
 
 ![about me 5](https://github.com/user-attachments/assets/e24aa88d-3b7d-4236-89cb-da5b46dbc822)
 
-# **Contact**
-[Email](liangzichen.arch@gmail.com)
+<!-- Fun Image -->
+<img title="about me 5" alt="about me 5" src="/images/about me 5.png">
 
+Image description: Me with the TRACIR (project at Biorobotics Lab, CMU) robot at UPMC, Pittsburgh, USA after successful experiments with the robot on pigs.
 
