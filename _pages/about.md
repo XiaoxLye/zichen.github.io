@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 You can find my CV here: [Liang’s CV](https://xiaoxlye.github.io/zichen.github.io/files/ZICHENLIANG-CV.pdf)
 
 I obtained a Bachelor's degree in Building Electrical Intelligence in the School of Electrical and Information Engineering of Beijing University of Civil Engineering and Architecture in 2020. 
@@ -16,8 +17,8 @@ I obtained a Master's degree in Building Technology in the School of Architectur
 I was advised by [Associate Professor Zhongzhong Zeng](https://saad.bjtu.edu.cn/szll/jzx/181136.htm) from [School of Architecture and Art](https://saad.bjtu.edu.cn/index.htm), Beijing Jiaotong University. I was provided guidance and advice by [Associate Professor Bo Zhang](https://experts.okstate.edu/b.zhang) from [Horticulture & Landscape Architecture]( https://agriculture.okstate.edu/departments-programs/hla/), Oklahoma State University. 
 
 Guided by the two teachers, I not only completed my master's thesis successfully, but also assumed responsibility for a number of tasks within Zeng and Zhang's research group. These included the preparation of reports on the optimisation of building wind environments, the evaluation of green buildings in the planning stage of bidding projects, the strategic optimisation of urban wind environments, and the training of students in the use of CFD software. My achievements in academic research include participation in international academic conferences and the publication of papers in peer-reviewed journals.
-
 Further details of my experience can be found in the [Talks](/zichen.github.io/talks/) section and my papers in the [Publications](/zichen.github.io/publications/) section.
+
 # **Contact**
 [Email](liangzichen.arch@gmail.com)
 
