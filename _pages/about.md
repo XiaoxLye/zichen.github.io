@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-You can find my CV here: [Liang’s CV](https://xiaoxlye.github.io/zichen.github.io/files/CV_Zichen_Liang_academic_20250610.pdf)
+You can find my CV here: [Liang’s CV](https://xiaoxlye.github.io/zichen.github.io/files/20250611_CV_Zichen_Liang.pdf)
 
 I obtained a Bachelor's degree in Building Electrical Intelligence in the School of Electrical and Information Engineering of Beijing University of Civil Engineering and Architecture in 2020. 
 
